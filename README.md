@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaishnavi1903
+- 👋 Hi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ..
